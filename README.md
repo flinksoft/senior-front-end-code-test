@@ -1,12 +1,8 @@
-# Codetest
-
-> AlphaFX Tech Test
-
-In this repo, you will find all the tools you need to create a working Node.js app with Vue.js.
+# Alpha FX Senior Front End Test
 
 ## The exercise
 
-We would like you to get the data from the API and present it in the page/s as well as save data to the API. Some extra functionality like filtering of the data or developing the UX/UI would be really nice to see.
+We would like you to get the data from the API and present it in the page/s as well as save data to the API. Imagine you are creating an application for production - the UX/UI must look professional and clean.
 
 The content is based on football teams and each team has a few games and teams linked to them. This is meant to be a bit of fun to demonstrate what you know (or can learn) about the technologies we have asked for. There is no right or wrong answer, apart from using jQuery :wink:
 
@@ -15,7 +11,7 @@ The content is based on football teams and each team has a few games and teams l
 The end result should be able to demonstrate the following as a minimum:
 
 | Page | Description |
-|------|------|------|
+|------|------|
 | `Teams Page` | This will display all team names, when you click on one it will take you to team info (below) |
 | `Team Info` | This will display team info, all players and games played for the specified team |
 | `Player Statistics` | This will display information about a specified player. (Age, nationality, history, etc.) |
@@ -28,6 +24,7 @@ You can have each of the above as separate pages, or have them show/hide when ne
 3. Create the functionality to click on a team and display the players and games for that team via a component.
 4. Create the functionality to add a new game result for a team (see API end points), ideally via a component.
 5. Create the functionality to click on a player and display their playing club history via a component.
+4. A 404 page to handle invalid requests.
 
 ## Bonus points:
 1. Show the club logo image in the team page as well as the colour associated to that team (you can set just the background colour or you can get creative!).
