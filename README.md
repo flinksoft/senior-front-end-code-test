@@ -46,7 +46,7 @@ You can have each of the above as separate pages, or have them show/hide when ne
 
 ## How the app works
 
-![System](assets/system.png)
+![System](system.png)
 
 _* You only have to work in the Vue App front-end, all functionality is already done in the API_
 
