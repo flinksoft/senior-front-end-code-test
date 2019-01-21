@@ -24,7 +24,7 @@ You can have each of the above as separate pages, or have them show/hide when ne
 3. Create the functionality to click on a team and display the players and games for that team via a component.
 4. Create the functionality to add a new game result for a team (see API end points), ideally via a component.
 5. Create the functionality to click on a player and display their playing club history via a component.
-4. A 404 page to handle invalid requests.
+6. Error handling, e.g. page not found, invalid requests etc.
 
 ## Bonus points:
 1. Show the club logo image in the team page as well as the colour associated to that team (you can set just the background colour or you can get creative!).
